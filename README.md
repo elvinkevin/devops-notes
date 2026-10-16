@@ -8,8 +8,8 @@ The working examples (Dockerfile, CI workflow) live in my Flask application repo
 
 | Topic | Guide | What it covers |
 |---|---|---|
-| Docker | [Containerizing an application](docker/containerizing-an-app.md) | Writing a Dockerfile, `.dockerignore`, building images, running containers, troubleshooting. |
-| CI/CD | [CI pipeline with GitHub Actions](ci-cd/github-actions-pipeline.md) | Running tests on every push, building a Docker image, and publishing it to Docker Hub. |
+| Docker | [Containerizing an application](Docker/containerizing-an-app.md) | Writing a Dockerfile, `.dockerignore`, building images, running containers, troubleshooting. |
+| CI/CD | [CI pipeline with GitHub Actions](ci-cd/CI-github-actions-pipeline.md) | Running tests on every push, building a Docker image, and publishing it to Docker Hub. |
 
 ## How the pieces fit together
 
